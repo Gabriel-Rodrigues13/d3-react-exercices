@@ -1,1 +1,1 @@
-# A mouse following a circle using React
+# A circle following a mouse using React
